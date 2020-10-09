@@ -36,7 +36,7 @@ describe('index.html', () => {
     expect(container.querySelectorAll('.card').length).toEqual(24)
     })  
 
-it('') 
+
 
 });
 
